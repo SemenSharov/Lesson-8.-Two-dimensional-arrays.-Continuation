@@ -1,0 +1,15 @@
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\bin\Debug\net7.0\Task_58.exe
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\bin\Debug\net7.0\Task_58.deps.json
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\bin\Debug\net7.0\Task_58.runtimeconfig.json
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\bin\Debug\net7.0\Task_58.dll
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\bin\Debug\net7.0\Task_58.pdb
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\Task_58.csproj.AssemblyReference.cache
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\Task_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\Task_58.AssemblyInfoInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\Task_58.AssemblyInfo.cs
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\Task_58.csproj.CoreCompileInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\Task_58.dll
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\refint\Task_58.dll
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\Task_58.pdb
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\Task_58.genruntimeconfig.cache
+C:\Моя папка\Обучение програмированию\Lesson 8. Two-dimensional arrays. Continuation\Task_58\obj\Debug\net7.0\ref\Task_58.dll
